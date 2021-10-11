@@ -1,0 +1,17 @@
+name = "hugo-coven.386"
+license = "Apache 2"
+licenselink = "//gitlab.com/devec0/hugo-coven.386/blob/master/LICENSE"
+description = "Modified hugo.386 theme, for the discerning Cyberwitch"
+homepage = "//gitlab.com/devec0/hugo-coven.386/"
+tags = ["blog","retro","geek","witch","goth","pastel","bootstra.386","hugo.386"]
+features = ["responsive"]
+min_version = "0.41"
+
+[author]
+  name = "James (ec0) Hebden"
+  homepage = "//spooky.computer"
+
+[original]
+  name = "HUGO.386"
+  homepage = "https://github.com/maxlefou/hugo.386"
+  repo = "https://github.com/maxlefou/hugo.386"
